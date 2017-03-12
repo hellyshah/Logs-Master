@@ -1,0 +1,1808 @@
+﻿Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Creating EventLog source Logs in log Application...
+Rolling back assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Restoring event log to previous state for source Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Creating EventLog source Logs in log Application...
+Rolling back assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Restoring event log to previous state for source Logs.
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Creating EventLog source Logs in log Application...
+Rolling back assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Restoring event log to previous state for source Logs.
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Creating EventLog source Logs in log Application...
+Rolling back assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Restoring event log to previous state for source Logs.
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Creating EventLog source Logs in log Application...
+Rolling back assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Restoring event log to previous state for source Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Creating EventLog source Logs in log Application...
+Rolling back assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Restoring event log to previous state for source Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Creating EventLog source Logs in log Application...
+Rolling back assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Restoring event log to previous state for source Logs.
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Creating EventLog source Logs in log Application...
+Rolling back assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Restoring event log to previous state for source Logs.
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Creating EventLog source Logs in log Application...
+Rolling back assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Restoring event log to previous state for source Logs.
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Creating EventLog source Logs in log Application...
+Rolling back assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Restoring event log to previous state for source Logs.
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Creating EventLog source Logs in log Application...
+Rolling back assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Restoring event log to previous state for source Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Creating EventLog source Logs in log Application...
+Rolling back assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Restoring event log to previous state for source Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Creating EventLog source Logs in log Application...
+Rolling back assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Restoring event log to previous state for source Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Creating EventLog source Logs in log Application...
+Rolling back assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Restoring event log to previous state for source Logs.
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Warning: The source Logs is not registered on the local machine.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Creating EventLog source Logs in log Application...
+Rolling back assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Restoring event log to previous state for source Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Warning: The source Logs is not registered on the local machine.
+Service Logs is being removed from the system...
+An exception occurred during the uninstallation of the System.ServiceProcess.ServiceInstaller installer.
+System.ComponentModel.Win32Exception: The specified service does not exist as an installed service
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Uninstalling assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Removing EventLog source Logs.
+Service Logs is being removed from the system...
+Service Logs was successfully removed from the system.
+Attempt to stop service Logs.
+Installing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+Installing service Logs...
+Service Logs has been successfully installed.
+Creating EventLog source Logs in log Application...
+Committing assembly 'D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.InstallLog
+   assemblypath = D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe

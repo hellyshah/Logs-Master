@@ -1,0 +1,9 @@
+D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe.config
+D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\Logs.exe
+D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\System.Data.SQLite.dll
+D:\Jatin_Work\DayByDay\26032014\Logs\Logs\bin\Release\System.Data.SQLite.pdb
+D:\Jatin_Work\DayByDay\26032014\Logs\Logs\obj\Release\Logs.csprojResolveAssemblyReference.cache
+D:\Jatin_Work\DayByDay\26032014\Logs\Logs\obj\Release\Logs.Logs.resources
+D:\Jatin_Work\DayByDay\26032014\Logs\Logs\obj\Release\Logs.ProjectInstaller.resources
+D:\Jatin_Work\DayByDay\26032014\Logs\Logs\obj\Release\Logs.csproj.GenerateResource.Cache
+D:\Jatin_Work\DayByDay\26032014\Logs\Logs\obj\Release\Logs.exe
